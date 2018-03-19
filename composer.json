@@ -1,8 +1,8 @@
 {
-    "name": "thenbsp/wechat",
+    "name": "yunwuxin/wechat",
     "description": "微信公众平台第三方 SDK 开发包，优雅、健壮，可扩展，遵循 PSR 开发规范。",
     "keywords": ["wechat", "weixin", "微信", "微信 SDK", "微信支付", "微信开发", "自定义菜单"],
-    "homepage": "http://github.com/thenbsp/wechat",
+    "homepage": "http://github.com/yunwuxin/wechat",
     "license": "MIT",
     "authors": [
         {
